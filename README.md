@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Alexandra!
 
-<!--
-**Al-ba22/Al-ba22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning from a successful career in English language education to the exciting world of technology — with a focus on **Natural Language Processing (NLP)** and **Prompt Engineering**. 
 
-Here are some ideas to get you started:
+💬 **Background**:  
+- MSc in Information and Communication Systems, University of the Aegean (2023) & MSc in Applied Linguistics, University of Edinburgh (2024)
+- 15+ years of experience as an ELT educator and examiner  
+- Certified in Google Data Analytics, Generative AI with LLMs, Python (Code in Place - Stanford) and IT Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Current Focus**:
+- NLP projects using Python, spaCy, Hugging Face
+- Prompt design and evaluation for LLMs
+- Portfolio building & hands-on experimentation
+
+---
+
+## 🛠️ Projects
+
+### 🎨 [Style Transfer Assistant](https://github.com/Al-ba22/Style-transfer-assistant)
+A **LLM-powered app** that rewrites user text in different tones (e.g., formal, playful) using **Anthropic’s Claude API**. Highlights:
+- Prompt templating for generating various tones
+- Built-in error handling for smoother UX and robust responses
+
+---
+
+### 📚 [Summarization Assistant](https://github.com/Al-ba22/summarization-assistant)
+A tool offering both **extractive and abstractive summaries** for long texts. Key features:
+- Demonstrates familiarity with different summarization strategies
+- Handles context management and output formatting effectively
+
+---
+
+### ✅ [To‑Do List Manager (Code in Place 2024)](https://github.com/Al-ba22/To-Do-List-Manager-for-CiP24)
+A beginner-friendly **Python console app** for managing tasks, completed during the Stanford Code-in-Place program:
+- Uses dictionaries and lists to store and manipulate tasks
+- Employs loops and input validation for interaction
+- Reinforces programming fundamentals like CRUD (Create, Read, Update, Delete)
+
+---
+
+## 🔧 Skills
+
+- **Languages**: Python, Markdown, HTML
+- **Libraries**: spaCy, NLTK, scikit-learn, Hugging Face
+- **Tools**: Git, Jupyter, Google Colab
+- **Soft Skills**: Communication, Critical Thinking, Training & Evaluation
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/alexandra-balamoti)
+
