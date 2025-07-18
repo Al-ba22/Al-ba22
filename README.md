@@ -3,7 +3,7 @@
 I'm transitioning from a successful career in English language education to the exciting world of technology — with a focus on **Natural Language Processing (NLP)** and **Prompt Engineering**. 
 
 💬 **Background**:  
-- MSc in Information and Communication Systems, University of the Aegean (2023) & MSc in Applied Linguistics, University of Edinburgh (2024)
+- MSc in Information and Communication Systems, University of the Aegean (2023) & MSc in Applied Linguistics, University of Edinburgh (2010)
 - 15+ years of experience as an ELT educator and examiner  
 - Certified in Google Data Analytics, Generative AI with LLMs, Python (Code in Place - Stanford) and IT Support
 
